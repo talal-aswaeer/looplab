@@ -1,5 +1,7 @@
 # Looplab v0.2
 
+**[Open Looplab](https://talal-aswaeer.github.io/looplab/)** — use the tool directly in your browser.
+
 Run `node server.js` and open http://127.0.0.1:4173. Run `node tests.mjs` for seed, scaling math, and ZIP checks. No runtime dependencies or build step.
 
 ## Animation
